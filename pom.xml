@@ -3,10 +3,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>com.khoubyari</groupId>
+	<groupId>org.springframework.boot:spring-boot-starter-parent</groupId>
 	<artifactId>spring-boot-rest-example</artifactId>
 	<version>0.5.0</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<description>Example project demonstrating REST APIs implemented using Spring Boot, in-memory database, embedded Tomcat, Swagger, JsonPath, Hamcrest and MockMVC</description>
 
 	<parent>
@@ -16,7 +16,7 @@
 	</parent>
 
 	<properties>
-		<start-class>com.khoubyari.example.Application</start-class>
+		<start-class>com.cordebora.example.Application</start-class>
 	</properties>
 
 	<dependencies>
