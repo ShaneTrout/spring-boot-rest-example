@@ -1,0 +1,1322 @@
+{
+  "id": 8481553,
+  "fullNames": [
+    {
+      "last": "Brink",
+      "first": "Bobby",
+      "active": true
+    },
+    {
+      "last": "Courturier",
+      "first": "Sean",
+      "active": false
+    }
+  ]
+}
+
+{
+  "previousMonth": "2024-10",
+  "currentMonth": "2024-11",
+  "nextMonth": "2024-12",
+  "calendarUrl": "https://nhl.ecal.com/flyers",
+  "clubTimezone": "US/Eastern",
+  "clubUTCOffset": "-05:00",
+  "games": [
+    {
+      "id": 2024020175,
+      "season": 20242025,
+      "gameType": 2,
+      "gameDate": "2024-11-02",
+      "venue": {
+        "default": "Wells Fargo Center"
+      },
+      "neutralSite": false,
+      "startTimeUTC": "2024-11-02T17:00:00Z",
+      "easternUTCOffset": "-04:00",
+      "venueUTCOffset": "-04:00",
+      "venueTimezone": "US/Eastern",
+      "gameState": "OFF",
+      "gameScheduleState": "OK",
+      "awayTeam": {
+        "id": 6,
+        "commonName": {
+          "default": "Bruins"
+        },
+        "placeName": {
+          "default": "Boston"
+        },
+        "placeNameWithPreposition": {
+          "default": "Boston",
+          "fr": "de Boston"
+        },
+        "abbrev": "BOS",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/BOS_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/BOS_dark.svg",
+        "awaySplitSquad": false,
+        "airlineLink": "https://www.jetblue.com/?utm_source=Bruins-Web&utm_medium=Schedule-Icon&utm_campaign=Ticket-Booking",
+        "airlineDesc": "Fly JetBlue",
+        "score": 3
+      },
+      "homeTeam": {
+        "id": 4,
+        "commonName": {
+          "default": "Flyers"
+        },
+        "placeName": {
+          "default": "Philadelphia",
+          "fr": "Philadelphie"
+        },
+        "placeNameWithPreposition": {
+          "default": "Philadelphia",
+          "fr": "de Philadelphie"
+        },
+        "abbrev": "PHI",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg",
+        "homeSplitSquad": false,
+        "score": 0
+      },
+      "periodDescriptor": {
+        "number": 3,
+        "periodType": "REG",
+        "maxRegulationPeriods": 3
+      },
+      "gameOutcome": {
+        "lastPeriodType": "REG"
+      },
+      "winningGoalie": {
+        "playerId": 8476914,
+        "firstInitial": {
+          "default": "J."
+        },
+        "lastName": {
+          "default": "Korpisalo"
+        }
+      },
+      "winningGoalScorer": {
+        "playerId": 8483505,
+        "firstInitial": {
+          "default": "M."
+        },
+        "lastName": {
+          "default": "Poitras"
+        }
+      },
+      "threeMinRecap": "/video/bos-at-phi-recap-6364126708112",
+      "threeMinRecapFr": "/fr/video/bos-vs-phi-02-11-2024-resume-6364126530112",
+      "condensedGame": "/video/bos-at-phi-condensed-game-6364127482112",
+      "condensedGameFr": "/fr/video/match-condense-bruins-flyers02-11-2024-6364127200112",
+      "gameCenterLink": "/gamecenter/bos-vs-phi/2024/11/02/2024020175"
+    },
+    {
+      "id": 2024020197,
+      "season": 20242025,
+      "gameType": 2,
+      "gameDate": "2024-11-05",
+      "venue": {
+        "default": "Lenovo Center"
+      },
+      "neutralSite": false,
+      "startTimeUTC": "2024-11-06T00:00:00Z",
+      "easternUTCOffset": "-05:00",
+      "venueUTCOffset": "-05:00",
+      "venueTimezone": "US/Eastern",
+      "gameState": "OFF",
+      "gameScheduleState": "OK",
+      "tvBroadcasts": [
+        {
+          "id": 282,
+          "market": "N",
+          "countryCode": "CA",
+          "network": "SN",
+          "sequenceNumber": 21
+        },
+        {
+          "id": 322,
+          "market": "A",
+          "countryCode": "US",
+          "network": "NBCSP",
+          "sequenceNumber": 380
+        },
+        {
+          "id": 561,
+          "market": "H",
+          "countryCode": "US",
+          "network": "FDSNSO",
+          "sequenceNumber": 277
+        }
+      ],
+      "awayTeam": {
+        "id": 4,
+        "commonName": {
+          "default": "Flyers"
+        },
+        "placeName": {
+          "default": "Philadelphia",
+          "fr": "Philadelphie"
+        },
+        "placeNameWithPreposition": {
+          "default": "Philadelphia",
+          "fr": "de Philadelphie"
+        },
+        "abbrev": "PHI",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg",
+        "awaySplitSquad": false,
+        "airlineLink": "",
+        "airlineDesc": "",
+        "hotelLink": "",
+        "hotelDesc": "",
+        "score": 4
+      },
+      "homeTeam": {
+        "id": 12,
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeName": {
+          "default": "Carolina",
+          "fr": "Caroline"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "abbrev": "CAR",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg",
+        "homeSplitSquad": false,
+        "score": 6
+      },
+      "periodDescriptor": {
+        "number": 3,
+        "periodType": "REG",
+        "maxRegulationPeriods": 3
+      },
+      "gameOutcome": {
+        "lastPeriodType": "REG"
+      },
+      "winningGoalie": {
+        "playerId": 8481611,
+        "firstInitial": {
+          "default": "P."
+        },
+        "lastName": {
+          "default": "Kochetkov"
+        }
+      },
+      "winningGoalScorer": {
+        "playerId": 8480039,
+        "firstInitial": {
+          "default": "M."
+        },
+        "lastName": {
+          "default": "Necas",
+          "cs": "Nečas",
+          "sk": "Nečas"
+        }
+      },
+      "threeMinRecap": "/video/phi-at-car-recap-6364267435112",
+      "threeMinRecapFr": "/fr/video/phi-vs-car-05-11-2024-resume-6364267038112",
+      "condensedGame": "/video/phi-at-car-condensed-game-6364267719112",
+      "condensedGameFr": "/fr/video/match-condense-flyers-hurricanes05-11-2024-6364268589112",
+      "gameCenterLink": "/gamecenter/phi-vs-car/2024/11/05/2024020197"
+    },
+    {
+      "id": 2024020210,
+      "season": 20242025,
+      "gameType": 2,
+      "gameDate": "2024-11-07",
+      "venue": {
+        "default": "Amalie Arena"
+      },
+      "neutralSite": false,
+      "startTimeUTC": "2024-11-08T00:30:00Z",
+      "easternUTCOffset": "-05:00",
+      "venueUTCOffset": "-05:00",
+      "venueTimezone": "US/Eastern",
+      "gameState": "OFF",
+      "gameScheduleState": "OK",
+      "tvBroadcasts": [
+        {
+          "id": 329,
+          "market": "N",
+          "countryCode": "US",
+          "network": "ESPN+",
+          "sequenceNumber": 6
+        },
+        {
+          "id": 391,
+          "market": "N",
+          "countryCode": "US",
+          "network": "HULU",
+          "sequenceNumber": 7
+        }
+      ],
+      "awayTeam": {
+        "id": 4,
+        "commonName": {
+          "default": "Flyers"
+        },
+        "placeName": {
+          "default": "Philadelphia",
+          "fr": "Philadelphie"
+        },
+        "placeNameWithPreposition": {
+          "default": "Philadelphia",
+          "fr": "de Philadelphie"
+        },
+        "abbrev": "PHI",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg",
+        "awaySplitSquad": false,
+        "score": 2
+      },
+      "homeTeam": {
+        "id": 14,
+        "commonName": {
+          "default": "Lightning"
+        },
+        "placeName": {
+          "default": "Tampa Bay"
+        },
+        "placeNameWithPreposition": {
+          "default": "Tampa Bay",
+          "fr": "de Tampa Bay"
+        },
+        "abbrev": "TBL",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/TBL_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/TBL_dark.svg",
+        "homeSplitSquad": false,
+        "hotelLink": "https://promos.marriott.com/TPAJD/breakfast-for-two",
+        "hotelDesc": "Stay at the Marriott Water Street Tampa",
+        "score": 1
+      },
+      "periodDescriptor": {
+        "number": 5,
+        "periodType": "SO",
+        "maxRegulationPeriods": 3
+      },
+      "gameOutcome": {
+        "lastPeriodType": "SO"
+      },
+      "winningGoalie": {
+        "playerId": 8478905,
+        "firstInitial": {
+          "default": "I."
+        },
+        "lastName": {
+          "default": "Fedotov"
+        }
+      },
+      "threeMinRecap": "/video/phi-at-tbl-recap-6364376303112",
+      "threeMinRecapFr": "/fr/video/phi-vs-tbl-07-11-2024-resume-6364376698112",
+      "condensedGame": "/video/phi-at-tbl-condensed-game-6364376198112",
+      "condensedGameFr": "/fr/video/match-condense-flyers-lightning07-11-2024-6364375905112",
+      "gameCenterLink": "/gamecenter/phi-vs-tbl/2024/11/07/2024020210"
+    },
+    {
+      "id": 2024020225,
+      "season": 20242025,
+      "gameType": 2,
+      "gameDate": "2024-11-09",
+      "venue": {
+        "default": "Amerant Bank Arena"
+      },
+      "neutralSite": false,
+      "startTimeUTC": "2024-11-09T23:00:00Z",
+      "easternUTCOffset": "-05:00",
+      "venueUTCOffset": "-05:00",
+      "venueTimezone": "US/Eastern",
+      "gameState": "OFF",
+      "gameScheduleState": "OK",
+      "tvBroadcasts": [
+        {
+          "id": 322,
+          "market": "A",
+          "countryCode": "US",
+          "network": "NBCSP",
+          "sequenceNumber": 380
+        },
+        {
+          "id": 521,
+          "market": "H",
+          "countryCode": "US",
+          "network": "SCRIPPS",
+          "sequenceNumber": 657
+        }
+      ],
+      "awayTeam": {
+        "id": 4,
+        "commonName": {
+          "default": "Flyers"
+        },
+        "placeName": {
+          "default": "Philadelphia",
+          "fr": "Philadelphie"
+        },
+        "placeNameWithPreposition": {
+          "default": "Philadelphia",
+          "fr": "de Philadelphie"
+        },
+        "abbrev": "PHI",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg",
+        "awaySplitSquad": false,
+        "score": 3
+      },
+      "homeTeam": {
+        "id": 13,
+        "commonName": {
+          "default": "Panthers"
+        },
+        "placeName": {
+          "default": "Florida",
+          "fr": "Floride"
+        },
+        "placeNameWithPreposition": {
+          "default": "Florida",
+          "fr": "de la Floride"
+        },
+        "abbrev": "FLA",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/FLA_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/FLA_dark.svg",
+        "homeSplitSquad": false,
+        "airlineLink": "https://www.jetbluevacations.com/sale/florida-panthers?utm_source=panthers&utm_medium=schedule_page&utm_campaign=dates",
+        "airlineDesc": "Fly with JetBlue ",
+        "hotelLink": "https://www.jetbluevacations.com/sale/florida-panthers?utm_source=panthers&utm_medium=schedule_page&utm_campaign=dates",
+        "hotelDesc": "Stay with JetBlue Vacations ",
+        "score": 4
+      },
+      "periodDescriptor": {
+        "number": 5,
+        "periodType": "SO",
+        "maxRegulationPeriods": 3
+      },
+      "gameOutcome": {
+        "lastPeriodType": "SO"
+      },
+      "winningGoalie": {
+        "playerId": 8475683,
+        "firstInitial": {
+          "default": "S."
+        },
+        "lastName": {
+          "default": "Bobrovsky",
+          "cs": "Bobrovskij",
+          "sk": "Bobrovskij"
+        }
+      },
+      "threeMinRecap": "/video/phi-at-fla-recap-6364491717112",
+      "threeMinRecapFr": "/fr/video/phi-vs-fla-09-11-2024-resume-6364491998112",
+      "condensedGame": "/video/phi-at-fla-condensed-game-6364491232112",
+      "condensedGameFr": "/fr/video/match-condense-flyers-panthers09-11-2024-6364492194112",
+      "gameCenterLink": "/gamecenter/phi-vs-fla/2024/11/09/2024020225"
+    },
+    {
+      "id": 2024020240,
+      "season": 20242025,
+      "gameType": 2,
+      "gameDate": "2024-11-11",
+      "venue": {
+        "default": "Wells Fargo Center"
+      },
+      "neutralSite": false,
+      "startTimeUTC": "2024-11-12T00:00:00Z",
+      "easternUTCOffset": "-05:00",
+      "venueUTCOffset": "-05:00",
+      "venueTimezone": "US/Eastern",
+      "gameState": "OFF",
+      "gameScheduleState": "OK",
+      "tvBroadcasts": [
+        {
+          "id": 322,
+          "market": "H",
+          "countryCode": "US",
+          "network": "NBCSP",
+          "sequenceNumber": 380
+        },
+        {
+          "id": 314,
+          "market": "A",
+          "countryCode": "US",
+          "network": "NBCSCA",
+          "sequenceNumber": 384
+        }
+      ],
+      "awayTeam": {
+        "id": 28,
+        "commonName": {
+          "default": "Sharks"
+        },
+        "placeName": {
+          "default": "San Jose"
+        },
+        "placeNameWithPreposition": {
+          "default": "San Jose",
+          "fr": "de San Jose"
+        },
+        "abbrev": "SJS",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/SJS_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/SJS_dark.svg",
+        "awaySplitSquad": false,
+        "score": 3
+      },
+      "homeTeam": {
+        "id": 4,
+        "commonName": {
+          "default": "Flyers"
+        },
+        "placeName": {
+          "default": "Philadelphia",
+          "fr": "Philadelphie"
+        },
+        "placeNameWithPreposition": {
+          "default": "Philadelphia",
+          "fr": "de Philadelphie"
+        },
+        "abbrev": "PHI",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg",
+        "homeSplitSquad": false,
+        "score": 4
+      },
+      "periodDescriptor": {
+        "number": 5,
+        "periodType": "SO",
+        "maxRegulationPeriods": 3
+      },
+      "gameOutcome": {
+        "lastPeriodType": "SO"
+      },
+      "winningGoalie": {
+        "playerId": 8481035,
+        "firstInitial": {
+          "default": "S."
+        },
+        "lastName": {
+          "default": "Ersson"
+        }
+      },
+      "threeMinRecap": "/video/sjs-at-phi-recap-6364574915112",
+      "threeMinRecapFr": "/fr/video/sjs-vs-phi-11-11-2024-resume-6364573660112",
+      "condensedGame": "/video/sjs-at-phi-condensed-game-6364573662112",
+      "condensedGameFr": "/fr/video/match-condense-sharks-flyers11-11-2024-6364574350112",
+      "gameCenterLink": "/gamecenter/sjs-vs-phi/2024/11/11/2024020240"
+    },
+    {
+      "id": 2024020258,
+      "season": 20242025,
+      "gameType": 2,
+      "gameDate": "2024-11-14",
+      "venue": {
+        "default": "Canadian Tire Centre",
+        "fr": "Centre Canadian Tire"
+      },
+      "neutralSite": false,
+      "startTimeUTC": "2024-11-15T00:00:00Z",
+      "easternUTCOffset": "-05:00",
+      "venueUTCOffset": "-05:00",
+      "venueTimezone": "US/Eastern",
+      "gameState": "OFF",
+      "gameScheduleState": "OK",
+      "tvBroadcasts": [
+        {
+          "id": 322,
+          "market": "A",
+          "countryCode": "US",
+          "network": "NBCSP",
+          "sequenceNumber": 380
+        },
+        {
+          "id": 230,
+          "market": "H",
+          "countryCode": "CA",
+          "network": "RDS2",
+          "sequenceNumber": 133
+        },
+        {
+          "id": 294,
+          "market": "H",
+          "countryCode": "CA",
+          "network": "TSN5",
+          "sequenceNumber": 135
+        }
+      ],
+      "awayTeam": {
+        "id": 4,
+        "commonName": {
+          "default": "Flyers"
+        },
+        "placeName": {
+          "default": "Philadelphia",
+          "fr": "Philadelphie"
+        },
+        "placeNameWithPreposition": {
+          "default": "Philadelphia",
+          "fr": "de Philadelphie"
+        },
+        "abbrev": "PHI",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg",
+        "awaySplitSquad": false,
+        "score": 5
+      },
+      "homeTeam": {
+        "id": 9,
+        "commonName": {
+          "default": "Senators",
+          "fr": "Sénateurs"
+        },
+        "placeName": {
+          "default": "Ottawa"
+        },
+        "placeNameWithPreposition": {
+          "default": "Ottawa",
+          "fr": "d'Ottawa"
+        },
+        "abbrev": "OTT",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/OTT_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/OTT_dark.svg",
+        "homeSplitSquad": false,
+        "score": 4
+      },
+      "periodDescriptor": {
+        "number": 4,
+        "periodType": "OT",
+        "maxRegulationPeriods": 3
+      },
+      "gameOutcome": {
+        "lastPeriodType": "OT"
+      },
+      "winningGoalie": {
+        "playerId": 8478905,
+        "firstInitial": {
+          "default": "I."
+        },
+        "lastName": {
+          "default": "Fedotov"
+        }
+      },
+      "winningGoalScorer": {
+        "playerId": 8484387,
+        "firstInitial": {
+          "default": "M."
+        },
+        "lastName": {
+          "default": "Michkov"
+        }
+      },
+      "condensedGame": "/video/phi-at-ott-condensed-game-6364731384112",
+      "condensedGameFr": "/fr/video/match-condense-flyers-senateurs14-11-2024-6364730121112",
+      "gameCenterLink": "/gamecenter/phi-vs-ott/2024/11/14/2024020258"
+    },
+    {
+      "id": 2024020278,
+      "season": 20242025,
+      "gameType": 2,
+      "gameDate": "2024-11-16",
+      "venue": {
+        "default": "Wells Fargo Center"
+      },
+      "neutralSite": false,
+      "startTimeUTC": "2024-11-17T00:00:00Z",
+      "easternUTCOffset": "-05:00",
+      "venueUTCOffset": "-05:00",
+      "venueTimezone": "US/Eastern",
+      "gameState": "OFF",
+      "gameScheduleState": "OK",
+      "tvBroadcasts": [
+        {
+          "id": 322,
+          "market": "H",
+          "countryCode": "US",
+          "network": "NBCSP",
+          "sequenceNumber": 380
+        },
+        {
+          "id": 28,
+          "market": "A",
+          "countryCode": "US",
+          "network": "MSG-B",
+          "sequenceNumber": 383
+        }
+      ],
+      "awayTeam": {
+        "id": 7,
+        "commonName": {
+          "default": "Sabres"
+        },
+        "placeName": {
+          "default": "Buffalo"
+        },
+        "placeNameWithPreposition": {
+          "default": "Buffalo",
+          "fr": "de Buffalo"
+        },
+        "abbrev": "BUF",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/BUF_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/BUF_dark.svg",
+        "awaySplitSquad": false,
+        "score": 2
+      },
+      "homeTeam": {
+        "id": 4,
+        "commonName": {
+          "default": "Flyers"
+        },
+        "placeName": {
+          "default": "Philadelphia",
+          "fr": "Philadelphie"
+        },
+        "placeNameWithPreposition": {
+          "default": "Philadelphia",
+          "fr": "de Philadelphie"
+        },
+        "abbrev": "PHI",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg",
+        "homeSplitSquad": false,
+        "score": 5
+      },
+      "periodDescriptor": {
+        "number": 3,
+        "periodType": "REG",
+        "maxRegulationPeriods": 3
+      },
+      "gameOutcome": {
+        "lastPeriodType": "REG"
+      },
+      "winningGoalie": {
+        "playerId": 8478905,
+        "firstInitial": {
+          "default": "I."
+        },
+        "lastName": {
+          "default": "Fedotov"
+        }
+      },
+      "winningGoalScorer": {
+        "playerId": 8481178,
+        "firstInitial": {
+          "default": "E."
+        },
+        "lastName": {
+          "default": "Zamula"
+        }
+      },
+      "threeMinRecap": "/video/buf-at-phi-recap-6364814400112",
+      "threeMinRecapFr": "/fr/video/buf-vs-phi-16-11-2024-resume-6364814123112",
+      "condensedGame": "/video/buf-at-phi-condensed-game-6364815377112",
+      "condensedGameFr": "/fr/video/match-condense-sabres-flyers16-11-2024-6364815591112",
+      "gameCenterLink": "/gamecenter/buf-vs-phi/2024/11/16/2024020278"
+    },
+    {
+      "id": 2024020289,
+      "season": 20242025,
+      "gameType": 2,
+      "gameDate": "2024-11-18",
+      "venue": {
+        "default": "Wells Fargo Center"
+      },
+      "neutralSite": false,
+      "startTimeUTC": "2024-11-19T00:00:00Z",
+      "easternUTCOffset": "-05:00",
+      "venueUTCOffset": "-05:00",
+      "venueTimezone": "US/Eastern",
+      "gameState": "OFF",
+      "gameScheduleState": "OK",
+      "tvBroadcasts": [
+        {
+          "id": 324,
+          "market": "N",
+          "countryCode": "US",
+          "network": "NHLN",
+          "sequenceNumber": 23
+        },
+        {
+          "id": 323,
+          "market": "H",
+          "countryCode": "US",
+          "network": "NBCSP+",
+          "sequenceNumber": 392
+        },
+        {
+          "id": 2,
+          "market": "A",
+          "countryCode": "US",
+          "network": "ALT",
+          "sequenceNumber": 376
+        }
+      ],
+      "awayTeam": {
+        "id": 21,
+        "commonName": {
+          "default": "Avalanche"
+        },
+        "placeName": {
+          "default": "Colorado"
+        },
+        "placeNameWithPreposition": {
+          "default": "Colorado",
+          "fr": "du Colorado"
+        },
+        "abbrev": "COL",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/COL_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/COL_dark.svg",
+        "awaySplitSquad": false,
+        "score": 3
+      },
+      "homeTeam": {
+        "id": 4,
+        "commonName": {
+          "default": "Flyers"
+        },
+        "placeName": {
+          "default": "Philadelphia",
+          "fr": "Philadelphie"
+        },
+        "placeNameWithPreposition": {
+          "default": "Philadelphia",
+          "fr": "de Philadelphie"
+        },
+        "abbrev": "PHI",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg",
+        "homeSplitSquad": false,
+        "score": 2
+      },
+      "periodDescriptor": {
+        "number": 3,
+        "periodType": "REG",
+        "maxRegulationPeriods": 3
+      },
+      "gameOutcome": {
+        "lastPeriodType": "REG"
+      },
+      "winningGoalie": {
+        "playerId": 8481020,
+        "firstInitial": {
+          "default": "J."
+        },
+        "lastName": {
+          "default": "Annunen"
+        }
+      },
+      "winningGoalScorer": {
+        "playerId": 8479999,
+        "firstInitial": {
+          "default": "C."
+        },
+        "lastName": {
+          "default": "Mittelstadt"
+        }
+      },
+      "threeMinRecap": "/video/col-at-phi-recap-6364885936112",
+      "threeMinRecapFr": "/fr/video/col-vs-phi-18-11-2024-resume-6364886626112",
+      "condensedGame": "/video/col-at-phi-condensed-game-6364886628112",
+      "condensedGameFr": "/fr/video/match-condense-avalanche-flyers18-11-2024-6364886143112",
+      "gameCenterLink": "/gamecenter/col-vs-phi/2024/11/18/2024020289"
+    },
+    {
+      "id": 2024020302,
+      "season": 20242025,
+      "gameType": 2,
+      "gameDate": "2024-11-20",
+      "venue": {
+        "default": "Wells Fargo Center"
+      },
+      "neutralSite": false,
+      "startTimeUTC": "2024-11-21T00:30:00Z",
+      "easternUTCOffset": "-05:00",
+      "venueUTCOffset": "-05:00",
+      "venueTimezone": "US/Eastern",
+      "gameState": "FUT",
+      "gameScheduleState": "OK",
+      "tvBroadcasts": [
+        {
+          "id": 385,
+          "market": "N",
+          "countryCode": "US",
+          "network": "TNT",
+          "sequenceNumber": 2
+        },
+        {
+          "id": 519,
+          "market": "N",
+          "countryCode": "US",
+          "network": "MAX",
+          "sequenceNumber": 8
+        },
+        {
+          "id": 322,
+          "market": "H",
+          "countryCode": "US",
+          "network": "NBCSP",
+          "sequenceNumber": 380
+        }
+      ],
+      "awayTeam": {
+        "id": 12,
+        "commonName": {
+          "default": "Hurricanes"
+        },
+        "placeName": {
+          "default": "Carolina",
+          "fr": "Caroline"
+        },
+        "placeNameWithPreposition": {
+          "default": "Carolina",
+          "fr": "de la Caroline"
+        },
+        "abbrev": "CAR",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/CAR_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CAR_dark.svg",
+        "awaySplitSquad": false,
+        "promoLink": "",
+        "promoDesc": "",
+        "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/CAR/20242025/CAR-radio.m3u8"
+      },
+      "homeTeam": {
+        "id": 4,
+        "commonName": {
+          "default": "Flyers"
+        },
+        "placeName": {
+          "default": "Philadelphia",
+          "fr": "Philadelphie"
+        },
+        "placeNameWithPreposition": {
+          "default": "Philadelphia",
+          "fr": "de Philadelphie"
+        },
+        "abbrev": "PHI",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg",
+        "homeSplitSquad": false,
+        "promoLink": "",
+        "promoDesc": "",
+        "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/PHI/20242025/PHI-radio.m3u8",
+        "airlineLink": "",
+        "airlineDesc": "",
+        "hotelLink": "",
+        "hotelDesc": ""
+      },
+      "periodDescriptor": {
+        "number": 1,
+        "periodType": "REG",
+        "maxRegulationPeriods": 3
+      },
+      "ticketsLink": "https://www.ticketmaster.com/event/300060E1CDC3235D?brand=flyers&artistid=806000&wt.mc_id=NHL_TEAM_PHI_SCHEDULE_GM10&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_PHI&utm_content=SCHEDULE_GM10",
+      "ticketsLinkFr": "https://www.ticketmaster.com/event/300060E1CDC3235D?brand=flyers&artistid=806000&wt.mc_id=NHL_TEAM_PHI_SCHEDULE_GM10&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_PHI&utm_content=SCHEDULE_GM10",
+      "gameCenterLink": "/gamecenter/car-vs-phi/2024/11/20/2024020302"
+    },
+    {
+      "id": 2024020318,
+      "season": 20242025,
+      "gameType": 2,
+      "gameDate": "2024-11-23",
+      "venue": {
+        "default": "Wells Fargo Center"
+      },
+      "neutralSite": false,
+      "startTimeUTC": "2024-11-23T18:00:00Z",
+      "easternUTCOffset": "-05:00",
+      "venueUTCOffset": "-05:00",
+      "venueTimezone": "US/Eastern",
+      "gameState": "FUT",
+      "gameScheduleState": "OK",
+      "tvBroadcasts": [
+        {
+          "id": 324,
+          "market": "N",
+          "countryCode": "US",
+          "network": "NHLN",
+          "sequenceNumber": 23
+        },
+        {
+          "id": 282,
+          "market": "N",
+          "countryCode": "CA",
+          "network": "SN",
+          "sequenceNumber": 101
+        },
+        {
+          "id": 322,
+          "market": "H",
+          "countryCode": "US",
+          "network": "NBCSP",
+          "sequenceNumber": 380
+        },
+        {
+          "id": 551,
+          "market": "A",
+          "countryCode": "US",
+          "network": "CHSN",
+          "sequenceNumber": 243
+        }
+      ],
+      "awayTeam": {
+        "id": 16,
+        "commonName": {
+          "default": "Blackhawks"
+        },
+        "placeName": {
+          "default": "Chicago"
+        },
+        "placeNameWithPreposition": {
+          "default": "Chicago",
+          "fr": "de Chicago"
+        },
+        "abbrev": "CHI",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/CHI_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/CHI_dark.svg",
+        "awaySplitSquad": false,
+        "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/CHI/20242025/CHI-radio.m3u8"
+      },
+      "homeTeam": {
+        "id": 4,
+        "commonName": {
+          "default": "Flyers"
+        },
+        "placeName": {
+          "default": "Philadelphia",
+          "fr": "Philadelphie"
+        },
+        "placeNameWithPreposition": {
+          "default": "Philadelphia",
+          "fr": "de Philadelphie"
+        },
+        "abbrev": "PHI",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg",
+        "homeSplitSquad": false,
+        "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/PHI/20242025/PHI-radio.m3u8"
+      },
+      "periodDescriptor": {
+        "number": 1,
+        "periodType": "REG",
+        "maxRegulationPeriods": 3
+      },
+      "ticketsLink": "https://www.ticketmaster.com/event/300060E1CDC82361?brand=flyers&artistid=806000&wt.mc_id=NHL_TEAM_PHI_SCHEDULE_GM11&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_PHI&utm_content=SCHEDULE_GM11",
+      "ticketsLinkFr": "https://www.ticketmaster.com/event/300060E1CDC82361?brand=flyers&artistid=806000&wt.mc_id=NHL_TEAM_PHI_SCHEDULE_GM11&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_PHI&utm_content=SCHEDULE_GM11",
+      "gameCenterLink": "/gamecenter/chi-vs-phi/2024/11/23/2024020318"
+    },
+    {
+      "id": 2024020338,
+      "season": 20242025,
+      "gameType": 2,
+      "gameDate": "2024-11-25",
+      "venue": {
+        "default": "Wells Fargo Center"
+      },
+      "neutralSite": false,
+      "startTimeUTC": "2024-11-26T00:00:00Z",
+      "easternUTCOffset": "-05:00",
+      "venueUTCOffset": "-05:00",
+      "venueTimezone": "US/Eastern",
+      "gameState": "FUT",
+      "gameScheduleState": "OK",
+      "tvBroadcasts": [
+        {
+          "id": 322,
+          "market": "H",
+          "countryCode": "US",
+          "network": "NBCSP",
+          "sequenceNumber": 380
+        },
+        {
+          "id": 521,
+          "market": "A",
+          "countryCode": "US",
+          "network": "SCRIPPS",
+          "sequenceNumber": 657
+        }
+      ],
+      "awayTeam": {
+        "id": 54,
+        "commonName": {
+          "default": "Golden Knights"
+        },
+        "placeName": {
+          "default": "Vegas"
+        },
+        "placeNameWithPreposition": {
+          "default": "Vegas",
+          "fr": "de Vegas"
+        },
+        "abbrev": "VGK",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/VGK_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/VGK_dark.svg",
+        "awaySplitSquad": false,
+        "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/VGK/20242025/VGK-radio.m3u8",
+        "airlineLink": "https://vegasgoldenknights.bookseats.com/build-package/147544051?utm_source=goldenknights&utm_medium=schedule_icon&utm_campaign=goldenknights_flyers&utm_content=away",
+        "airlineDesc": "Travel Packages",
+        "hotelLink": "https://vegasgoldenknights.bookseats.com/build-package/147544051?utm_source=goldenknights&utm_medium=schedule_icon&utm_campaign=goldenknights_flyers&utm_content=away",
+        "hotelDesc": "Travel Packages"
+      },
+      "homeTeam": {
+        "id": 4,
+        "commonName": {
+          "default": "Flyers"
+        },
+        "placeName": {
+          "default": "Philadelphia",
+          "fr": "Philadelphie"
+        },
+        "placeNameWithPreposition": {
+          "default": "Philadelphia",
+          "fr": "de Philadelphie"
+        },
+        "abbrev": "PHI",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg",
+        "homeSplitSquad": false,
+        "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/PHI/20242025/PHI-radio.m3u8"
+      },
+      "periodDescriptor": {
+        "number": 1,
+        "periodType": "REG",
+        "maxRegulationPeriods": 3
+      },
+      "ticketsLink": "https://www.ticketmaster.com/event/300060E1CDCC2363?brand=flyers&artistid=806000&wt.mc_id=NHL_TEAM_PHI_SCHEDULE_GM12&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_PHI&utm_content=SCHEDULE_GM12",
+      "ticketsLinkFr": "https://www.ticketmaster.com/event/300060E1CDCC2363?brand=flyers&artistid=806000&wt.mc_id=NHL_TEAM_PHI_SCHEDULE_GM12&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_PHI&utm_content=SCHEDULE_GM12",
+      "gameCenterLink": "/gamecenter/vgk-vs-phi/2024/11/25/2024020338"
+    },
+    {
+      "id": 2024020356,
+      "season": 20242025,
+      "gameType": 2,
+      "gameDate": "2024-11-27",
+      "venue": {
+        "default": "Bridgestone Arena"
+      },
+      "neutralSite": false,
+      "startTimeUTC": "2024-11-28T01:00:00Z",
+      "easternUTCOffset": "-05:00",
+      "venueUTCOffset": "-06:00",
+      "venueTimezone": "US/Central",
+      "gameState": "FUT",
+      "gameScheduleState": "OK",
+      "tvBroadcasts": [
+        {
+          "id": 323,
+          "market": "A",
+          "countryCode": "US",
+          "network": "NBCSP+",
+          "sequenceNumber": 392
+        },
+        {
+          "id": 561,
+          "market": "H",
+          "countryCode": "US",
+          "network": "FDSNSO",
+          "sequenceNumber": 277
+        }
+      ],
+      "awayTeam": {
+        "id": 4,
+        "commonName": {
+          "default": "Flyers"
+        },
+        "placeName": {
+          "default": "Philadelphia",
+          "fr": "Philadelphie"
+        },
+        "placeNameWithPreposition": {
+          "default": "Philadelphia",
+          "fr": "de Philadelphie"
+        },
+        "abbrev": "PHI",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg",
+        "awaySplitSquad": false,
+        "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/PHI/20242025/PHI-radio.m3u8"
+      },
+      "homeTeam": {
+        "id": 18,
+        "commonName": {
+          "default": "Predators"
+        },
+        "placeName": {
+          "default": "Nashville"
+        },
+        "placeNameWithPreposition": {
+          "default": "Nashville",
+          "fr": "de Nashville"
+        },
+        "abbrev": "NSH",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/NSH_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/NSH_dark.svg",
+        "homeSplitSquad": false,
+        "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/NSH/20242025/NSH-radio.m3u8",
+        "hotelLink": "https://www.hyatt.com/grand-hyatt/en-US/bnarn-grand-hyatt-nashville?offercode=PREDS",
+        "hotelDesc": "Immerse Yourself in Luxury at Grand Hyatt Nashville"
+      },
+      "periodDescriptor": {
+        "number": 1,
+        "periodType": "REG",
+        "maxRegulationPeriods": 3
+      },
+      "ticketsLink": "https://www.ticketmaster.com/event/1B0061139B181B07?brand=predators&artistid=805978&wt.mc_id=NHL_TEAM_NSH_SCHEDULE_GM12&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_NSH&utm_content=SCHEDULE_GM12",
+      "ticketsLinkFr": "https://www.ticketmaster.com/event/1B0061139B181B07?brand=predators&artistid=805978&wt.mc_id=NHL_TEAM_NSH_SCHEDULE_GM12&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_NSH&utm_content=SCHEDULE_GM12",
+      "gameCenterLink": "/gamecenter/phi-vs-nsh/2024/11/27/2024020356"
+    },
+    {
+      "id": 2024020362,
+      "season": 20242025,
+      "gameType": 2,
+      "gameDate": "2024-11-29",
+      "venue": {
+        "default": "Wells Fargo Center"
+      },
+      "neutralSite": false,
+      "startTimeUTC": "2024-11-29T18:00:00Z",
+      "easternUTCOffset": "-05:00",
+      "venueUTCOffset": "-05:00",
+      "venueTimezone": "US/Eastern",
+      "gameState": "FUT",
+      "gameScheduleState": "OK",
+      "tvBroadcasts": [
+        {
+          "id": 322,
+          "market": "H",
+          "countryCode": "US",
+          "network": "NBCSP",
+          "sequenceNumber": 380
+        },
+        {
+          "id": 55,
+          "market": "A",
+          "countryCode": "US",
+          "network": "MSG 2",
+          "sequenceNumber": 407
+        }
+      ],
+      "awayTeam": {
+        "id": 3,
+        "commonName": {
+          "default": "Rangers"
+        },
+        "placeName": {
+          "default": "New York"
+        },
+        "placeNameWithPreposition": {
+          "default": "New York",
+          "fr": "de New York"
+        },
+        "abbrev": "NYR",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/NYR_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/NYR_dark.svg",
+        "awaySplitSquad": false,
+        "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/NYR/20242025/NYR-radio.m3u8"
+      },
+      "homeTeam": {
+        "id": 4,
+        "commonName": {
+          "default": "Flyers"
+        },
+        "placeName": {
+          "default": "Philadelphia",
+          "fr": "Philadelphie"
+        },
+        "placeNameWithPreposition": {
+          "default": "Philadelphia",
+          "fr": "de Philadelphie"
+        },
+        "abbrev": "PHI",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg",
+        "homeSplitSquad": false,
+        "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/PHI/20242025/PHI-radio.m3u8"
+      },
+      "periodDescriptor": {
+        "number": 1,
+        "periodType": "REG",
+        "maxRegulationPeriods": 3
+      },
+      "ticketsLink": "https://www.ticketmaster.com/event/300060E1CDD12369?brand=flyers&artistid=806000&wt.mc_id=NHL_TEAM_PHI_SCHEDULE_GM13&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_PHI&utm_content=SCHEDULE_GM13",
+      "ticketsLinkFr": "https://www.ticketmaster.com/event/300060E1CDD12369?brand=flyers&artistid=806000&wt.mc_id=NHL_TEAM_PHI_SCHEDULE_GM13&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_PHI&utm_content=SCHEDULE_GM13",
+      "gameCenterLink": "/gamecenter/nyr-vs-phi/2024/11/29/2024020362"
+    },
+    {
+      "id": 2024020381,
+      "season": 20242025,
+      "gameType": 2,
+      "gameDate": "2024-11-30",
+      "venue": {
+        "default": "Enterprise Center"
+      },
+      "neutralSite": false,
+      "startTimeUTC": "2024-12-01T00:00:00Z",
+      "easternUTCOffset": "-05:00",
+      "venueUTCOffset": "-06:00",
+      "venueTimezone": "US/Central",
+      "gameState": "FUT",
+      "gameScheduleState": "OK",
+      "tvBroadcasts": [
+        {
+          "id": 322,
+          "market": "A",
+          "countryCode": "US",
+          "network": "NBCSP",
+          "sequenceNumber": 380
+        },
+        {
+          "id": 566,
+          "market": "H",
+          "countryCode": "US",
+          "network": "FDSNMW",
+          "sequenceNumber": 273
+        }
+      ],
+      "awayTeam": {
+        "id": 4,
+        "commonName": {
+          "default": "Flyers"
+        },
+        "placeName": {
+          "default": "Philadelphia",
+          "fr": "Philadelphie"
+        },
+        "placeNameWithPreposition": {
+          "default": "Philadelphia",
+          "fr": "de Philadelphie"
+        },
+        "abbrev": "PHI",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/PHI_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/PHI_dark.svg",
+        "awaySplitSquad": false,
+        "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/PHI/20242025/PHI-radio.m3u8"
+      },
+      "homeTeam": {
+        "id": 19,
+        "commonName": {
+          "default": "Blues"
+        },
+        "placeName": {
+          "default": "St. Louis"
+        },
+        "placeNameWithPreposition": {
+          "default": "St. Louis",
+          "fr": "de St. Louis"
+        },
+        "abbrev": "STL",
+        "logo": "https://assets.nhle.com/logos/nhl/svg/STL_light.svg",
+        "darkLogo": "https://assets.nhle.com/logos/nhl/svg/STL_dark.svg",
+        "homeSplitSquad": false,
+        "radioLink": "https://d2igy0yla8zi0u.cloudfront.net/STL/20242025/STL-radio.m3u8",
+        "hotelLink": "https://www.stlouisunionstation.com/hotel-packages",
+        "hotelDesc": "Stay at Hilton"
+      },
+      "periodDescriptor": {
+        "number": 1,
+        "periodType": "REG",
+        "maxRegulationPeriods": 3
+      },
+      "ticketsLink": "https://www.ticketmaster.com/event/060060E9EC674A14?brand=blues&artistid=806025&wt.mc_id=NHL_TEAM_STL_SCHEDULE_GM12&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_STL&utm_content=SCHEDULE_GM12",
+      "ticketsLinkFr": "https://www.ticketmaster.com/event/060060E9EC674A14?brand=blues&artistid=806025&wt.mc_id=NHL_TEAM_STL_SCHEDULE_GM12&utm_source=NHL.com&utm_medium=client&utm_campaign=NHL_TEAM_STL&utm_content=SCHEDULE_GM12",
+      "gameCenterLink": "/gamecenter/phi-vs-stl/2024/11/30/2024020381"
+    }
+  ]
+}
